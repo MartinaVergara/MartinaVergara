@@ -1,5 +1,5 @@
-## Hi! 
-I'm a PhD student in mathematics from Argentina. My research focuses on graph theory. I'm here to explore and develop the algorithmic aspects of my work. Looking forward to learning and collaborating!
+## Hi! 😄
+I'm a PhD student in mathematics from Argentina. My research focuses on graph theory. I'm here to explore and develop the algorithmic aspects of my work. Looking forward to learning and collaborating! ✨
 
 <!--
 **MartinaVergara/MartinaVergara** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
