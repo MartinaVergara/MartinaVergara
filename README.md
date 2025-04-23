@@ -2,7 +2,7 @@
 
 I'm a PhD student in mathematics, focusing on graph theory. I'm here to explore and develop the algorithmic aspects of my work.
 
-Looking forward to learning and collaborating! ✨
+Looking forward to learning and collaborating!
 
 <!--
 **MartinaVergara/MartinaVergara** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
