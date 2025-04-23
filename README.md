@@ -1,6 +1,6 @@
 ### Hi! 👋
 
-I'm a PhD student in mathematics, focusing on graph theory. I'm here to explore and develop the algorithmic aspects of my work. 🤓
+I'm a PhD student in mathematics, focusing on graph theory. I'm here to explore and develop the algorithmic aspects of my work.
 
 Looking forward to learning and collaborating! ✨
 
